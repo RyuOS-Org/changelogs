@@ -1,3 +1,10 @@
+# Now We are RyuOS
+- Initial A16 release
+- Bump Android version to 16
+- Bump codename to Celestia
+- June security patch
+- Used new qs style
+  
 # Ryu-UI v1.2
 - Move to numbering for ryu version like 1.2 (1 is Ryu version, 2 is Qpr version)
 - So this is QPR2 source

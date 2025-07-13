@@ -1,4 +1,5 @@
-# Now We are RyuOS
+# RyuOS Celestia
+- Now we are rebrand to RyuOS
 - Initial A16 release
 - Bump Android version to 16
 - Bump codename to Celestia
